@@ -1,2 +1,0 @@
-value="Name"
-print(value)
